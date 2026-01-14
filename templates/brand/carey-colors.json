@@ -1,0 +1,80 @@
+{
+  "brand_colors": {
+    "primary": [
+      {
+        "name": "JHU Heritage Blue",
+        "hex": "#002D72",
+        "rgb": [0, 45, 114],
+        "cmyk": [100, 80, 6, 32],
+        "usage": "Primary brand color, headers, titles, primary data series"
+      },
+      {
+        "name": "Carey Spirit Blue",
+        "hex": "#0072CE",
+        "rgb": [0, 114, 206],
+        "cmyk": [85, 50, 0, 0],
+        "usage": "Digital accent, links, secondary data series"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "Sable",
+        "hex": "#31261D",
+        "rgb": [49, 38, 29],
+        "usage": "Text color, formal documents"
+      },
+      {
+        "name": "Warm Gray",
+        "hex": "#A59D95",
+        "rgb": [165, 157, 149],
+        "usage": "Backgrounds, borders, subtle elements"
+      },
+      {
+        "name": "Sandstone",
+        "hex": "#CFB991",
+        "rgb": [207, 185, 145],
+        "usage": "Accents, highlights, backgrounds"
+      }
+    ],
+    "accent": [
+      {
+        "name": "Orange",
+        "hex": "#CF4520",
+        "rgb": [207, 69, 32],
+        "usage": "Calls to action, alerts, emphasis, tertiary data series"
+      },
+      {
+        "name": "Teal",
+        "hex": "#008080",
+        "rgb": [0, 128, 128],
+        "usage": "Data visualization secondary, alternative accent"
+      }
+    ],
+    "neutral": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "rgb": [255, 255, 255],
+        "usage": "Backgrounds, reverse text"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "rgb": [0, 0, 0],
+        "usage": "Body text when high contrast needed"
+      }
+    ]
+  },
+  "data_visualization_sequence": [
+    "#002D72",
+    "#0072CE",
+    "#CF4520",
+    "#008080",
+    "#A59D95",
+    "#CFB991"
+  ],
+  "chart_backgrounds": {
+    "light": "#FFFFFF",
+    "subtle": "#F5F5F5"
+  }
+}

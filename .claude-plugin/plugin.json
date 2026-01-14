@@ -1,0 +1,22 @@
+{
+  "name": "carey-market-research",
+  "version": "1.0.0",
+  "description": "Market research agency plugin for Johns Hopkins Carey Business School. Provides specialized agents for primary research, secondary research, data analytics, creative services, and administrative operations.",
+  "author": {
+    "name": "Carey Business School Market Research"
+  },
+  "keywords": [
+    "market-research",
+    "business-school",
+    "surveys",
+    "competitive-intelligence",
+    "data-analysis",
+    "johns-hopkins",
+    "carey"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carey-business-school/claude-plugin"
+  },
+  "license": "MIT"
+}

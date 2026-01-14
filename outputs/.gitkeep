@@ -1,0 +1,17 @@
+# Output Directories
+
+This directory contains generated outputs from the Carey Market Research plugin.
+
+Subdirectories:
+- rfp/ - RFP responses and proposals
+- competitive/ - Competitive intelligence briefs
+- surveys/ - Survey instruments and guides
+- qualitative/ - Focus group guides and interview protocols
+- analysis/ - Data analysis outputs
+- industry/ - Industry analysis reports
+- summaries/ - Executive summaries
+- creative/ - Design assets and presentations
+- rankings/ - Rankings analysis
+- citations/ - Formatted citations and bibliographies
+
+Note: Output files may contain sensitive research data. Do not commit to version control.

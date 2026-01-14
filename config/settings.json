@@ -1,0 +1,48 @@
+{
+  "institution": "Johns Hopkins Carey Business School",
+  "agency_name": "Carey Market Research",
+  "default_export_format": "xlsx",
+  "branding": {
+    "primary_color": "#002D72",
+    "primary_color_name": "JHU Heritage Blue",
+    "secondary_color": "#0072CE",
+    "secondary_color_name": "Carey Spirit Blue",
+    "accent_color": "#CF4520",
+    "accent_color_name": "Orange",
+    "tertiary_colors": {
+      "sable": "#31261D",
+      "warm_gray": "#A59D95",
+      "sandstone": "#CFB991",
+      "teal": "#008080"
+    },
+    "font_headline": "Gentona",
+    "font_body": "Source Sans Pro"
+  },
+  "defaults": {
+    "citation_style": "APA",
+    "survey_platform": "Qualtrics",
+    "report_format": "docx",
+    "presentation_format": "pptx"
+  },
+  "output_directories": {
+    "rfp": "./outputs/rfp",
+    "competitive": "./outputs/competitive",
+    "surveys": "./outputs/surveys",
+    "qualitative": "./outputs/qualitative",
+    "analysis": "./outputs/analysis",
+    "industry": "./outputs/industry",
+    "summaries": "./outputs/summaries",
+    "creative": "./outputs/creative",
+    "rankings": "./outputs/rankings",
+    "citations": "./outputs/citations"
+  },
+  "irb": {
+    "contact_email": "homewoodirb@jhu.edu",
+    "website": "https://homewoodirb.jhu.edu"
+  },
+  "data_retention": {
+    "raw_data_days": 365,
+    "reports_days": 1825,
+    "working_files_days": 90
+  }
+}

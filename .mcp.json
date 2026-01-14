@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "qualtrics": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/mcp-qualtrics"],
+      "env": {
+        "QUALTRICS_API_TOKEN": "${QUALTRICS_API_TOKEN}",
+        "QUALTRICS_DATACENTER": "${QUALTRICS_DATACENTER}"
+      },
+      "description": "Integration with Qualtrics survey platform for survey deployment and data retrieval"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "${CAREY_DATA_DIR}"],
+      "description": "File system access for research data and outputs"
+    }
+  }
+}
